@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|d:\\e.j.z.r\\universidad\\8.-octavo semestre\\sistemas de informacion geografica\\proyecto\\visual\\backend-dijkstra\\controllers\\grafocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|solutionrelative:controllers\\grafocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|d:\\e.j.z.r\\universidad\\8.-octavo semestre\\sistemas de informacion geografica\\proyecto\\visual\\backend-dijkstra\\models\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|solutionrelative:models\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|d:\\e.j.z.r\\universidad\\8.-octavo semestre\\sistemas de informacion geografica\\proyecto\\visual\\backend-dijkstra\\controllers\\dto\\dijkstrarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|solutionrelative:controllers\\dto\\dijkstrarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|d:\\e.j.z.r\\universidad\\8.-octavo semestre\\sistemas de informacion geografica\\proyecto\\visual\\backend-dijkstra\\backend-dijkstra.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|solutionrelative:backend-dijkstra.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|d:\\e.j.z.r\\universidad\\8.-octavo semestre\\sistemas de informacion geografica\\proyecto\\visual\\backend-dijkstra\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|d:\\e.j.z.r\\universidad\\8.-octavo semestre\\sistemas de informacion geografica\\proyecto\\visual\\backend-dijkstra\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|d:\\e.j.z.r\\universidad\\8.-octavo semestre\\sistemas de informacion geografica\\proyecto\\visual\\backend-dijkstra\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|d:\\e.j.z.r\\universidad\\8.-octavo semestre\\sistemas de informacion geografica\\proyecto\\visual\\backend-dijkstra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|d:\\e.j.z.r\\universidad\\8.-octavo semestre\\sistemas de informacion geografica\\proyecto\\visual\\backend-dijkstra\\backend-dijkstra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E97077B-7C8E-40DB-86B3-2F5910B751A9}|Backend-Dijkstra.csproj|solutionrelative:backend-dijkstra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T20:03:48.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T19:01:02.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T19:00:25.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Backend-Dijkstra.http",
+              "DocumentMoniker": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Backend-Dijkstra.http",
+              "RelativeDocumentMoniker": "Backend-Dijkstra.http",
+              "ToolTip": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Backend-Dijkstra.http",
+              "RelativeToolTip": "Backend-Dijkstra.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-06T19:00:24.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DijkstraRequest.cs",
+              "DocumentMoniker": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Controllers\\DTO\\DijkstraRequest.cs",
+              "RelativeDocumentMoniker": "Controllers\\DTO\\DijkstraRequest.cs",
+              "ToolTip": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Controllers\\DTO\\DijkstraRequest.cs",
+              "RelativeToolTip": "Controllers\\DTO\\DijkstraRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:32:00.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrafoController.cs",
+              "DocumentMoniker": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Controllers\\GrafoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GrafoController.cs",
+              "ToolTip": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Controllers\\GrafoController.cs",
+              "RelativeToolTip": "Controllers\\GrafoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:15:04.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:13:04.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grafo.cs",
+              "DocumentMoniker": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Models\\Grafo.cs",
+              "RelativeDocumentMoniker": "Models\\Grafo.cs",
+              "ToolTip": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Models\\Grafo.cs",
+              "RelativeToolTip": "Models\\Grafo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:59:39.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Backend-Dijkstra.csproj",
+              "DocumentMoniker": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Backend-Dijkstra.csproj",
+              "RelativeDocumentMoniker": "Backend-Dijkstra.csproj",
+              "ToolTip": "D:\\E.J.Z.R\\Universidad\\8.-Octavo Semestre\\Sistemas de Informacion Geografica\\Proyecto\\Visual\\Backend-Dijkstra\\Backend-Dijkstra.csproj",
+              "RelativeToolTip": "Backend-Dijkstra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T15:59:10.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

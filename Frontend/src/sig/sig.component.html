@@ -1,0 +1,101 @@
+<!-- <div>
+    <button (click)="crearNodo()">Crear Nodo</button>
+    <button (click)="asignarPeso()">Asignar Peso entre Nodos</button>
+  </div>
+  
+  <h3>Grafo:</h3>
+  <pre>{{ grafo | json }}</pre>
+  
+  <div>
+    <h4>Crear Nodo</h4>
+    <input [(ngModel)]="nuevoNodo" placeholder="Nombre del Nodo" />
+    <button (click)="agregarNodo()">Agregar Nodo</button>
+  </div>
+  
+  <div>
+    <h4>Asignar Peso entre Nodos</h4>
+    <input [(ngModel)]="nodoOrigen" placeholder="Nodo Origen" />
+    <input [(ngModel)]="nodoDestino" placeholder="Nodo Destino" />
+    <input [(ngModel)]="peso" type="number" placeholder="Peso" />
+    <button (click)="agregarPeso()">Agregar Peso</button>
+  </div> -->
+
+<div class="flex justify-center p-4 min-h-screen ">
+ <div class="container max-w-4xl">
+    <div>
+
+      <h1 class="font-bold text-3xl text-center opacity-85 ">Algoritmo de Dijkstra</h1>
+      <div class="flex gap-4 *:p-4 *:border *:rounded-lg mt-8">
+        <div class="">
+          
+          <p class="opacity-80 font-semibold">Agregar nodo</p>
+          <input [(ngModel)]="nuevoNodo" placeholder="Nombre del Nodo" class="border p-2 rounded mt-2"/>
+          <button (click)="agregarNodo()" class="bg-gradient-to-t from-indigo-600 to-indigo-500 text-white
+          rounded px-4 py-1 shadow-md mt-2">Agregar Nodo</button>
+          
+        </div>
+      
+        <div class="p-2 border rounded-lg">
+          <p class="opacity-80 font-semibold">Asignar peso entre nodos</p>
+
+          <div class="*:border *:rounded *:p-2 flex  gap-2 mt-2">
+            <input [(ngModel)]="nodoOrigen" placeholder="Nodo Origen" />
+            <input [(ngModel)]="nodoDestino" placeholder="Nodo Destino" />
+            <input [(ngModel)]="peso" type="number" placeholder="Peso" />
+          </div>
+          <button (click)="agregarPeso()" class="bg-gradient-to-t from-indigo-600 to-indigo-500 text-white
+          py-1 px-4 rounded mt-2 shadow-md">Asignar Peso</button>
+
+        </div>
+      </div>
+    
+      <button (click)="enviarGrafo()" class="bg-gradient-to-t from-indigo-700 to-indigo-600 text-white
+      py-1 px-4 rounded mt-4 shadow-md ml-4">Enviar Grafo</button>
+    </div>
+    
+    <!-- <pre>{{ grafo | json }}</pre> -->
+
+    <!-- Mostrar la matriz de incidencia -->
+  <div class="border-indigo-500 rounded-xl p-4 border mt-6 bg-indigo-50">
+    <h3 class="text-indigo-700">Matriz de Incidencia</h3>
+    <table class="w-full table-auto text-indigo-700 mt-4">
+      <thead>
+        <tr class="">
+          <th class=" border border-indigo-500"></th>
+          <th *ngFor="let nodo of nodos" class=" border border-indigo-500">{{ nodo }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let fila of matrizIncidencia; let i = index">
+          <th class=" border border-indigo-500">{{ nodos[i] }}</th>
+          <td *ngFor="let valor of fila" class="text-center border border-indigo-500">{{ valor }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class=" mt-4 border rounded-xl p-4">
+    <h3 class="font-semibold opacity-80">Calcular Caminos</h3>
+    <div class="*:border *:p-2 *:rounded flex gap-2 mt-2">
+      <input [(ngModel)]="origenCamino" placeholder="Nodo de Origen" />
+      <input [(ngModel)]="destinoCamino" placeholder="Nodo de Destino" />
+    </div>
+
+    <div class="*:bg-gradient-to-t *:from-indigo-600 *:to-indigo-500 *:text-white
+      *:py-1 *:px-4 *:rounded flex gap-2 mt-2">
+      <button (click)="calcularCaminoMasCorto()">Camino Más Corto</button>
+      <button (click)="calcularCaminosPosibles()">Caminos Posibles</button>
+    </div>
+    <div *ngIf="caminosPosibles.length > 0"></div>
+  <h3>Caminos posibles:</h3>
+  <ul>
+      {{ caminosPosibles }}
+  </ul>
+</div>
+
+<div *ngIf="caminoFormateado">
+  <h3>Camino más corto:</h3>
+  <p>{{ caminoFormateado }}</p>
+</div>
+  </div>
+ </div>
